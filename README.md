@@ -1,2 +1,2 @@
 # leetCode_exercise
-leetCode代码联系
+leetCode代码练习
